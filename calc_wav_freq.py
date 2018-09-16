@@ -2,9 +2,7 @@
 
 import struct
 
-filedir="C:/Users/Blueforce/Music/"
-#filename="mono-8k8bit.wav"
-#filename="harry-potter.wav"
+filedir="D:/Music/"
 filename="0913-harry-1.wav"
 
 t = 0 # state
